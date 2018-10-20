@@ -1,0 +1,27 @@
+img{
+  border-radius:25px;
+  display: block;
+  max-width:100%;
+}
+#main{
+background: linear-gradient(to bottom right, #ffffff, #bea7c5)
+}
+body {
+  margin-top: 50px;
+  color:;
+  font-family: 'Do Hyeon', sans-serif;
+  text-align: center;
+  background-color:#bea7c5;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+h1 {
+  font-size: 52px;
+}
+h4{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-color:;
+}
+h2{
+  
+}
